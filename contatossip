@@ -66,10 +66,10 @@
 	<! -- Roseli Guedes -->
 	<contact name="FIN - Roseli Guedes" number="1001" firstname="" lastname="" phone="" mobile="" email="adm@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	
-	<! -- Setor Contratos -->
-	<contact name="CONTRATOS" number="9" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+	<! -- Setor Juridico -->
+	<contact name="JURIDICO" number="8" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Erica -->
-	<contact name="CONT - Erica Alves" number="1001" firstname="" lastname="" phone="" mobile="" email="adm@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<contact name="JUR- Erica Alves" number="1001" firstname="" lastname="" phone="" mobile="" email="juridico@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	
 	
   
