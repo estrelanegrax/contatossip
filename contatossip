@@ -19,19 +19,19 @@
   <contact name="SUP - Carlos Augusto" number="2001" firstname="" lastname="" phone="" mobile="" email="suporte8@sollustecnologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
   
 	<! -- Setor ASSISTENCIA TECNICA -->
-  <contact name="A -ASSISTENCIA TECNICA" number="2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+  <contact name="T - TECNICA" number="2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Kelly Valiante -->
-  <contact name="ASS - Kelly Valiante" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="TEC - Kelly Valiante" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Eduarda Faceira -->
-  <contact name="ASS - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="TEC - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Rosangela Oliveira -->
-  <contact name="ASS - Rosangela Oliveira" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
-  <contact name="ASS - Amanda Gonçalves" number="2000" firstname="" lastname="" phone="" mobile="" email="sollus.campos@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="TEC - Rosangela Oliveira" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="TEC - Amanda Gonçalves" number="2000" firstname="" lastname="" phone="" mobile="" email="sollus.campos@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
  
 	<! -- Setor Comercial -->
   <contact name="C - COMERCIAL" number="3" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Mauro Junior -->
-  <contact name="COM - Mauro junior" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="COM - Mauro Junior" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Gabriel Gralak -->
   <contact name="COM - Gabriel Gralak" number="1015" firstname="" lastname="" phone="" mobile="" email="sollus.pr@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Haribert Neuwirth -->
