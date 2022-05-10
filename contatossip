@@ -1,13 +1,21 @@
 <?xml version="1.0"?>
 <contacts refresh="0">
 <! -- Setor de Suporte -->
+
   <contact name="SUPORTE" number="1" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
-<contact name="SUP - Alexandre Cavalcante" number="1016" firstname="" lastname="" phone="" mobile="" email="supervisao.rj@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Alexandre Cavalcante -->
+  <contact name="SUP - Alexandre Cavalcante" number="1016" firstname="" lastname="" phone="" mobile="" email="supervisao.rj@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Victor Viana -->
   <contact name="SUP - Victor Viana" number="1018" firstname="" lastname="" phone="" mobile="" email="suporte2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Luciano Teixeira -->
   <contact name="SUP - Luciano Teixeira" number="1019" firstname="" lastname="" phone="" mobile="" email="suporte5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- André Oliveira -->
   <contact name="SUP - André Oliveira" number="1021" firstname="" lastname="" phone="" mobile="" email="suporte7@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Weverson Paulo -->
   <contact name="SUP - Weverson Paulo" number="1020" firstname="" lastname="" phone="" mobile="" email="suporte4@sollustecnologia.com" address="Espirito Santo" city="Espirito Santo" state="ES" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Leandro Monteiro -->
   <contact name="SUP - Leandro Monteiro" number="2002" firstname="" lastname="" phone="" mobile="" email="suporte6@sollustecnologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Carlos Augusto -->
   <contact name="SUP - Carlos Augusto" number="2001" firstname="" lastname="" phone="" mobile="" email="suporte8@sollustecnologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
   
   <! -- Setor Recepção -->
