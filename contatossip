@@ -20,27 +20,47 @@
   
   <! -- Setor Recepção -->
   <contact name="RECEPÇÃO" number="2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+  <! -- Kelly Valiante -->
   <contact name="REC - Kelly valiante" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Eduarda Faceira -->
   <contact name="REC - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Rosangela Oliveira -->
   <contact name="REC - Rosangela Oliveira" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="REC - Amanda Gonçalves" number="2000" firstname="" lastname="" phone="" mobile="" email="sollus.campos@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
  
  <! -- Setor Comercial -->
   <contact name="COMERCIAL" number="3" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+  <! -- Mauro Junior -->
   <contact name="COM - Mauro junior" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Gabriel Gralak -->
   <contact name="COM - Gabriel Gralak" number="1015" firstname="" lastname="" phone="" mobile="" email="sollus.pr@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Haribert Neuwirth -->
   <contact name="COM - Haribert Neuwirth " number="1014" firstname="" lastname="" phone="" mobile="" email="comercia2@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
   
   <! -- Setor Gerencia -->
-  <contact name="Gerencia" number="4" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+  <contact name="GERENCIA" number="4" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+  <! -- Anderson Melo -->
   <contact name="GER - Anderson Melo" number="3001" firstname="" lastname="" phone="" mobile="" email="gerencia.tenica@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Cristiano Silva -->
   <contact name="GER - Cristiano Silva" number="1014" firstname="" lastname="" phone="" mobile="" email="gerencia.comercial@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
   
   <! -- Setor Direção -->
    <contact name="DIREÇÃO" number="5" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
-  <contact name="DIR - Evandro Sant'anna" number="1008" firstname="" lastname="" phone="" mobile="" email="evandro.santanna@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+   <! -- Evandro Sant'anna -->
+  <contact name="DIR - " number="1008" firstname="" lastname="" phone="" mobile="" email="evandro.santanna@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+  <! -- Leonardo Santos -->
   <contact name="DIR - Leonardo Santos" number="1007" firstname="" lastname="" phone="" mobile="" email="leonardo.santos@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
   
-  
+  <! -- Setor Oficina -->
+   <contact name="OFICINA" number="6" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+  <! -- Rodolfo Dantas -->
+   <contact name="OFI - Rodolfo Dantas" number="1030" firstname="" lastname="" phone="" mobile="" email="tecnica@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+   <! -- Setor Estoque -->
+    <contact name="ESTOQUE" number="7" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+	<! -- Setor Oficina -->
+	<contact name="OFICINA" number="8" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+	<! -- Renato Silva -->
+  <contact name="OFI - Renato Silva" number="1026" firstname="" lastname="" phone="" mobile="" email="estoque@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
   
   
   
