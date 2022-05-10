@@ -42,7 +42,7 @@
 	<! -- Anderson Melo -->
   <contact name="GER - Anderson Melo" number="3001" firstname="" lastname="" phone="" mobile="" email="gerencia.tenica@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Cristiano Silva -->
-  <contact name="GER - Cristiano Silva" number="1014" firstname="" lastname="" phone="" mobile="" email="gerencia.comercial@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="GER - Cristiano Silva" number="1013" firstname="" lastname="" phone="" mobile="" email="gerencia.comercial@sollustecnologia.com" address="Rua Itatiaia, 845 - Portão" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
   
 	<! -- Setor Direção -->
    <contact name="DIREÇÃO" number="5" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
