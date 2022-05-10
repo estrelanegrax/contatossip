@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
 <contacts refresh="0">
+  <contact name="SUPORTE" number="1" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 <contact name="SUP - Alexandre" number="1016" firstname="Cavalcante" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="1" starred="" info=""/>
+  <contact name="SUP - Victor" number="1018" firstname="Viana" lastname="" phone="" mobile="" email="suporte2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 </contacts>
