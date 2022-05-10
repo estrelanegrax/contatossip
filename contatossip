@@ -59,5 +59,18 @@
     <contact name="ESTOQUE" number="7" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Renato Silva -->
     <contact name="EST - Renato Silva" number="1026" firstname="" lastname="" phone="" mobile="" email="estoque@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<! -- Setor Financeiro -->
+	<contact name="FINANCEIRO" number="8" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+	<! -- Jaqueline Pereira -->
+	<contact name="FIN - Jaqueline Pereira" number="1003" firstname="" lastname="" phone="" mobile="" email="adm3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<! -- Roseli Guedes -->
+	<contact name="FIN - Roseli Guedes" number="1001" firstname="" lastname="" phone="" mobile="" email="adm@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	
+	<! -- Setor Contratos -->
+	<contact name="CONTRATOS" number="9" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+	<! -- Erica -->
+	<contact name="CONT - Erica Alves" number="1001" firstname="" lastname="" phone="" mobile="" email="adm@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	
+	
   
 </contacts>
