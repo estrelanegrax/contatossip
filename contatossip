@@ -69,7 +69,7 @@
 	<! -- Setor Juridico -->
 	<contact name="J - JURIDICO" number="8" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Erica -->
-	<contact name="JUR- Erica Alves" number="1009" firstname="" lastname="" phone="" mobile="" email="juridico@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<contact name="JUR - Erica Alves" number="1009" firstname="" lastname="" phone="" mobile="" email="juridico@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	
 	
   
