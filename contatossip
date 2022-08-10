@@ -77,7 +77,7 @@
 	<contact name="JUR - Erica Alves" number="1009" firstname="" lastname="" phone="" mobile="" email="juridico@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	
 	<! -- Comercial CR-->
-	<contact name="CR COM - COMERCIAL" number="5000" firstname="" lastname="" phone="" mobile="" email="juridico@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<contact name="CR - COMERCIAL" number="5000" firstname="" lastname="" phone="" mobile="" email="juridico@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- COM CR Bruno Lima-->
 	<contact name="CR COM - Bruno Lima" number="1070" firstname="" lastname="" phone="" mobile="" email="comercial@coldrio.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	
