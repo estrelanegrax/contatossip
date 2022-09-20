@@ -22,8 +22,8 @@
   
 	<! -- Setor ASSISTENCIA TECNICA -->
  	 <contact name="T - TECNICA" number="2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
-	<! -- Kelly Valiante -->
- 	 <contact name="TEC - Kelly Valiante" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<! -- ADM2-->
+ 	 <contact name="TEC -ADM2" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Eduarda Faceira -->
 	  <contact name="TEC - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Rosangela Oliveira -->
@@ -32,8 +32,8 @@
  
 	<! -- Setor Comercial -->
 	  <contact name="C - COMERCIAL" number="3" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
-	<! -- Mauro Junior -->
-	  <contact name="COM - Mauro Junior" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<! -- Kelly Valiante-->
+	  <contact name="COM - Kelly Valiante" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Gabriel Gralak -->
 	  <contact name="COM - Gabriel Gralak" number="1015" firstname="" lastname="" phone="" mobile="" email="sollus.pr@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Ariane Lima -->
