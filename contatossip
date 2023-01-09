@@ -12,13 +12,16 @@
 	<! -- Marco Junior-->
  	 <contact name="SUP - Marco Antonio" number="1017" firstname="" lastname="" phone="" mobile="" email="suporte3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- André Oliveira -->
-  	<contact name="SUP - André Oliveira" number="1021" firstname="" lastname="" phone="" mobile="" email="suporte7@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+  	<contact name="SUP - Williamy Amorim" number="1021" firstname="" lastname="" phone="" mobile="" email="suporte7@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Weverson Paulo -->
  	 <contact name="SUP - Weverson Paulo" number="1020" firstname="" lastname="" phone="" mobile="" email="suporte4@sollustecnologia.com" address="Espirito Santo" city="Espirito Santo" state="ES" zip="" comment="" presence="1" starred="" info=""/>
+	<! -- Higgor Dias -->
+ 	 <contact name="SUP - Higgor Dias" number="1022" firstname="" lastname="" phone="" mobile="" email="suporte9@sollustecnologia.com" address="Espirito Santo" city="Espirito Santo" state="ES" zip="" comment="" presence="1" starred="" info=""/>
+	
 	<! -- Leandro Monteiro -->
   	<contact name="SUP - Leandro Monteiro" number="2002" firstname="" lastname="" phone="" mobile="" email="suporte6@sollustecnologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Carlos Augusto -->
- 	 <contact name="SUP - Carlos Augusto" number="2001" firstname="" lastname="" phone="" mobile="" email="suporte8@sollustecnologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+ 	 <contact name="SUP - SuporteCampos" number="2001" firstname="" lastname="" phone="" mobile="" email="suporte8@sollustecnologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
   
 	<! -- Setor ASSISTENCIA TECNICA -->
  	 <contact name="T - TECNICA" number="2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
