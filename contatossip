@@ -26,11 +26,11 @@
 	<! -- Setor ASSISTENCIA TECNICA -->
  	 <contact name="T - TECNICA" number="2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Roberta Teixeira-->
- 	 <contact name="TEC - Roberta Teixeira" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+ 	 <contact name="TEC - Ingridy Galtarossa" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Eduarda Faceira -->
 	  <contact name="TEC - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Rosangela Oliveira -->
- 	 <contact name="TEC - Rosangela Oliveira" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+ 	 <contact name="TEC - Nayara Cristine" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
  	 <contact name="TEC - Amanda Gonçalves" number="2000" firstname="" lastname="" phone="" mobile="" email="sollus.campos@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
  
 	<! -- Setor Comercial -->
@@ -48,7 +48,7 @@
 	<! -- Setor Gerencia -->
 	  <contact name="G - GERENCIA" number="4" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Anderson Melo -->
- 	 <contact name="GER - Anderson Melo" number="3001" firstname="" lastname="" phone="" mobile="" email="gerencia.tenica@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+ 	 <contact name="GER - Jaqueline pereira" number="3001" firstname="" lastname="" phone="" mobile="" email="gerencia.tenica@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Cristiano Silva -->
  	 <contact name="GER - Cristiano Silva" number="1013" firstname="" lastname="" phone="" mobile="" email="gerencia.comercial@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
   
@@ -70,7 +70,7 @@
 	<! -- Setor Financeiro -->
 	<contact name="F - FINANCEIRO" number="8" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Jaqueline Pereira -->
-	<contact name="FIN - Jaqueline Pereira" number="1003" firstname="" lastname="" phone="" mobile="" email="adm3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	<contact name="FIN - Rosangela Oliveira" number="1003" firstname="" lastname="" phone="" mobile="" email="adm3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	<! -- Roseli Guedes -->
 	<contact name="FIN - Roseli Guedes" number="1001" firstname="" lastname="" phone="" mobile="" email="adm@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 	
