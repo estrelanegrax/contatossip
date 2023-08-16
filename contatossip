@@ -37,14 +37,21 @@
 	  <contact name="C - COMERCIAL" number="3" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Kelly Valiante-->
 	  <contact name="COM - Kelly Valiante" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
-	<! -- Haribert Neuwirth -->
+	<! --  Adriele -->
 	  <contact name="COM - Adriele Santos" number="1015" firstname="" lastname="" phone="" mobile="" email="sollus.pr@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
-	<! -- Ricardo Simoe -->
+	! --  Rafavel -->
+	  <contact name="COM - Rafael" number="1012" firstname="" lastname="" phone="" mobile="" email="comercial@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+	
+
+        <! -- Ricardo Simoe -->
 	  <contact name="COM - Ricardo Simoes" number="1011" firstname="" lastname="" phone="" mobile="" email="comercial@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
 	
-	<! -- Adriele Santos -->
+	<! -- Adriele Haribert -->
 	  <contact name="COM -Haribert Neuwirth " number="1014" firstname="" lastname="" phone="" mobile="" email="comercial2@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
-  
+
+        <! -- Luciana Claudino-->
+	  <contact name="COM - Luciana Claudino" number="1500" firstname="" lastname="" phone="" mobile="" email="comercial7@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+	
 	<! -- Setor Gerencia -->
 	  <contact name="G - GERENCIA" number="4" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 	<! -- Anderson Melo -->
