@@ -14,6 +14,7 @@
     <contact name="CR - COMERCIAL" number="G10" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="EST CR - Estoque" number="G11" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="CONT - CONTRATO" number="G12" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+    <contact name="MKT- MARKETING" number="G13" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 
     <!-- Setor SUPORTE -->
     
@@ -89,6 +90,10 @@
     <!-- Setor Contratos -->
     
         <contact name="CONT S - Alessandra Santos" number="1040" firstname="" lastname="" phone="" mobile="" email="comercial@coldrio.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
-    
+
+<!-- Setor Contratos -->
+
+        <contact name="MKT CR/AE - Alessandra Santos" number="1071" firstname="" lastname="" phone="" mobile="" email="mkt@coldrio.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+
 
 </contacts>
