@@ -15,6 +15,9 @@
     <contact name="EST CR - Estoque" number="G11" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="CONT - CONTRATO" number="G12" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="M - MARKETING" number="G13" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+ <contact name="CQ - CONTROLE DE QUALIDAD number="G14" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+
+
 
     <!-- Setor SUPORTE -->
     
@@ -60,7 +63,10 @@
     <!-- Setor Oficina -->
     
         <contact name="OFI - Rodolfo Dantas" number="1030" firstname="" lastname="" phone="" mobile="" email="tecnica@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+
+ <!-- Setor Oficina -->
     
+        <contact name=CQ - Laysa Oliveira" number="1073" firstname="" lastname="" phone="" mobile="" email="sac@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 
     <!-- Setor Estoque -->
     
