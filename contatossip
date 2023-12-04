@@ -33,7 +33,6 @@
 
     <!-- Setor ASSISTENCIA TECNICA -->
     
-        <contact name="TEC - Ingridy Galtarossa" number="1002" firstname="" lastname="" phone="" mobile="" email="adm2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="TEC - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="TEC - Lorrayne Moreira" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="TEC - Amanda Goncalves" number="2000" firstname="" lastname="" phone="" mobile="" email="sollus.campos@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
@@ -77,7 +76,8 @@
     
         <contact name="FIN - Rosangela Oliveira" number="1003" firstname="" lastname="" phone="" mobile="" email="adm3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="FIN - Roseli Guedes" number="1001" firstname="" lastname="" phone="" mobile="" email="adm@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
-    
+        <contact name="FIN - Ingridy Galtarossa" number="1002" firstname="" lastname="" phone="" mobile="" email="financeiro3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+
 
     <!-- Setor Juridico -->
     
