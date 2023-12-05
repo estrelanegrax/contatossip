@@ -3,6 +3,7 @@
 
  <!-- Grupos -->
     <contact name="S - SUPORTE" number="G1" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+    <contact name="TI - Suporte TI" number="G15" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="T - TECNICA" number="G2" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="C - COMERCIAL" number="G3" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="G - GERENCIA" number="G4" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
@@ -18,6 +19,9 @@
  <contact name="CQ - CONTROLE DE QUALIDADE" number="G14" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 
 
+   <!-- Setor de TI -->
+
+        <contact name="TI - Alexandre Cavalcante" number="1016" firstname="" lastname="" phone="" mobile="" email="supervisao.rj@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 
     <!-- Setor SUPORTE -->
     
