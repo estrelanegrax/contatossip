@@ -16,7 +16,7 @@
     <contact name="EST CR - Estoque" number="G11" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="CONT - CONTRATO" number="G12" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="M - MARKETING" number="G13" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
- <contact name="CQ - CONTROLE DE QUALIDADE" number="G14" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+    <contact name="CQ - CONTROLE DE QUALIDADE" number="G14" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 
 
    <!-- Setor de TI -->
@@ -24,8 +24,7 @@
         <contact name="2TI - Alexandre Cavalcante" number="1016" firstname="" lastname="" phone="" mobile="" email="supervisao.rj@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 
     <!-- Setor SUPORTE -->
-    
-        <contact name="SUP - Alexandre Cavalcante" number="1016" firstname="" lastname="" phone="" mobile="" email="supervisao.rj@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+   
         <contact name="SUP - Victor Viana" number="1018" firstname="" lastname="" phone="" mobile="" email="suporte2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="SUP - Hizael Ferreira" number="1019" firstname="" lastname="" phone="" mobile="" email="suporte5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="SUP - Marco Antonio" number="1017" firstname="" lastname="" phone="" mobile="" email="suporte3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
