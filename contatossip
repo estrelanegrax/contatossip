@@ -17,7 +17,16 @@
     <contact name="CONT - CONTRATO" number="G12" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="M - MARKETING" number="G13" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
     <contact name="CQ - CONTROLE DE QUALIDADE" number="G14" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+    <contact name="C - AE" number="G16" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
+    <contact name="SV - AE" number="G17" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" presence="" starred="" info=""/>
 
+
+
+<!-- Setor de Supervisao AE -->
+          <contact name="SV - AE Alexander" number="1100" firstname="" lastname="" phone="" mobile="" email="comercial@aesolucoes.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+
+<!-- Setor de Comercial AE -->
+          <contact name="C- AE Gilson freita" number="1102" firstname="" lastname="" phone="" mobile="" email="comercial@aesolucoes.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 
    <!-- Setor de TI -->
 
@@ -28,9 +37,9 @@
         <contact name="SUP - Victor Viana" number="1018" firstname="" lastname="" phone="" mobile="" email="suporte2@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="SUP - Hizael Ferreira" number="1019" firstname="" lastname="" phone="" mobile="" email="suporte5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="SUP - Marco Antonio" number="1017" firstname="" lastname="" phone="" mobile="" email="suporte3@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
-        <contact name="SUP - Paulo" number="1021" firstname="" lastname="" phone="" mobile="" email="suporte7@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+        <contact name="SUP - Oscar" number="1021" firstname="" lastname="" phone="" mobile="" email="suporte7@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="SUP - Weverson Paulo" number="1020" firstname="" lastname="" phone="" mobile="" email="suporte4@sollustecnologia.com" address="Espirito Santo" city="Espirito Santo" state="ES" zip="" comment="" presence="1" starred="" info=""/>
-        <contact name="SUP - Higgor Dias" number="1022" firstname="" lastname="" phone="" mobile="" email="suporte9@sollustecnologia.com" address="Espirito Santo" city="Espirito Santo" state="ES" zip="" comment="" presence="1" starred="" info=""/>
+        <contact name="SUP - Filipe" number="1022" firstname="" lastname="" phone="" mobile="" email="suporte9@sollustecnologia.com" address="Espirito Santo" city="Espirito Santo" state="ES" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="SUP - Leandro" number="2002" firstname="" lastname="" phone="" mobile="" email="suporte6@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 
 
@@ -38,14 +47,15 @@
     
         <contact name="TEC - Eduarda Faceira" number="1004" firstname="" lastname="" phone="" mobile="" email="adm4@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="TEC - Lorrayne Moreira" number="1005" firstname="" lastname="" phone="" mobile="" email="adm5@sollustecnologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
-        <contact name="TEC - Amanda Goncalves" number="2000" firstname="" lastname="" phone="" mobile="" email="sollus.campos@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+        <contact name="TEC - Amanda Goncalves" number="2000" firstname="" lastname="" phone="" mobile="" email="adm6@sollustencologia.com" address="R. Barão da Lagoa Dourada" city="Campos" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+        <contact name="TEC - Ana Carla" number="1006" firstname="" lastname="" phone="" mobile="" email="adm2@sollustencologia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
 
 
     <!-- Setor Comercial -->
     
         <contact name="COM - Luciana Claudino" number="1010" firstname="" lastname="" phone="" mobile="" email="comercial3@sollustecnlogia.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="COM - Adriele Santos" number="1015" firstname="" lastname="" phone="" mobile="" email="sollus.pr@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
-        <contact name="COM - Oscar" number="1012" firstname="" lastname="" phone="" mobile="" email="comercial@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
+        <contact name="COM - Rafael" number="1012" firstname="" lastname="" phone="" mobile="" email="comercial@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="COM - Ricardo Simoes" number="1011" firstname="" lastname="" phone="" mobile="" email="comercial@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
         <contact name="COM - Haribert Neuwirth" number="1014" firstname="" lastname="" phone="" mobile="" email="comercial2@sollustecnologia.com" address="Rua Carlos Dietzsch, 359 - Sala 06" city="Curitiba" state="PR" zip="" comment="" presence="1" starred="" info=""/>
     
