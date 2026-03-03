@@ -107,9 +107,9 @@
         <contact name="CR COM - Bruno Lima" number="1070" firstname="" lastname="" phone="" mobile="" email="comercial@coldrio.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
     
 
-    <!-- Setor ESTOQUE CR -->
+    <!-- Setor ADM CR -->
    
-        <contact name="EST CR - Marcio Pereira" number="1072" firstname="" lastname="" phone="" mobile="" email="comercial@coldrio.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
+        <contact name="ADM CR/AE - Moises Alexandre" number="1072" firstname="" lastname="" phone="" mobile="" email="comercial@coldrio.com" address="Av.Brasil 31904" city="Rio de janeiro" state="RJ" zip="" comment="" presence="1" starred="" info=""/>
     
     <!-- Setor Contratos -->
     
